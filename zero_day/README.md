@@ -1,0 +1,1 @@
+This project takes into account the use of Vagrant which is a free and open-source software for the creation and configuration of virtual development environments. It can be considered as a wrapper around virtualization software like VirtualBox. This project will allow us to practice with virtual machines and to deepen our knowledge of git and shell.
